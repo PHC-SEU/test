@@ -1,0 +1,9 @@
+# 这是一个简单的C++程序
+```
+#include<iostream>
+using namespace std;
+int main() {
+cout<<"Hello world";
+return 0;
+}
+```
