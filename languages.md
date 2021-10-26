@@ -1,4 +1,4 @@
-# 这是一个简单的C++程序
+# 这是一个简单的程序
 ```
 #include<iostream>
 using namespace std;
@@ -7,8 +7,8 @@ cout<<"Hello world";
 return 0;
 }
 ```
-
-Let's make a little differences:(by latex)
+---
+Let's make a little differences:(by **latex**)
 ```
 %导言
 \documentclass{ctexart}
