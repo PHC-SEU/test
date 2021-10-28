@@ -21,7 +21,7 @@
 
 * 效果演示
 
-  ![标题效果展示](C:\Users\PengH\phw_mail_hfut_edu\OneDrive - mail.hfut.edu.cn\图片\markdown效果演示\标题.PNG '标题效果展示')
+  ![标题效果展示](标题.PNG '标题效果展示')
 
   ---
 
